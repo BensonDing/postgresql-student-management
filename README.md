@@ -176,10 +176,3 @@ git push -u origin main
 
 Inspect `git status` before committing; `.env` must not appear. Git may ask you to configure your own commit name/email or sign in. Do not use your PostgreSQL password as a GitHub credential.
 
-## Official technical references
-
-- [PostgreSQL identity columns](https://www.postgresql.org/docs/current/ddl-identity-columns.html)
-- [Psycopg parameterized queries](https://www.psycopg.org/psycopg3/docs/basic/params.html)
-- [Psycopg transaction handling](https://www.psycopg.org/psycopg3/docs/basic/transactions.html)
-- [pgAdmin Query Tool toolbar and Execute Script](https://www.pgadmin.org/docs/pgadmin4/latest/query_tool_toolbar.html)
-
