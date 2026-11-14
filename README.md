@@ -6,7 +6,6 @@ A Python command-line application for the **Database Interaction with PostgreSQL
 
 **Video URL: https://youtu.be/0G8yxR6qiOs
 
-The assignment requires a **public GitHub repository URL submitted through Brightspace**, with the video link in this README. Downloading this project alone does not complete those steps.
 
 ## Technologies
 
