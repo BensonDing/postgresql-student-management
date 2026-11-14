@@ -43,7 +43,6 @@ Windows 11 and pgAdmin GUI execution must still be verified on your computer.
 3. If pgAdmin was not included, install it from [pgAdmin's Windows download page](https://www.pgadmin.org/download/pgadmin-4-windows/).
 4. Extract the project ZIP to a normal folder, for example `C:\Users\YourName\Documents\postgresql-student-management`. Work in the extracted folder containing this README, not inside the ZIP. If Windows displays an extra outer folder, open the inner project folder.
 
-Python is interpreted; there is no separate compilation/build step.
 
 ## 2. Create and initialize the database in pgAdmin
 
