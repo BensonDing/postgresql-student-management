@@ -16,7 +16,7 @@ The assignment requires a **public GitHub repository URL submitted through Brigh
 - python-dotenv **1.2.2** for local configuration.
 - pgAdmin 4 for local database inspection and video verification.
 
-Windows 11 and pgAdmin GUI execution must still be verified on your computer. Actual automated results and their limits are in [docs/test_report.md](docs/test_report.md).
+Windows 11 and pgAdmin GUI execution must still be verified on your computer.
 
 ## Files
 
