@@ -161,16 +161,6 @@ Then perform the manual Windows/pgAdmin checks in [docs/demonstration_checklist.
 | Tests report `permission denied to create database` | Run tests with your local `postgres` role, or manually verify the app with pgAdmin; ordinary CRUD only needs table/sequence privileges |
 | Terminal text too small | Enlarge the terminal font (Ctrl+mouse wheel) before recording |
 
-## 7. Publish and submit
-
-This package has **not** been published to GitHub. The connected tools could access a GitHub profile but could not create a new repository; the browser creation page required sign-in. The complete ZIP is the publication fallback.
-
-1. Record the video using [the English script](docs/demonstration_script.md) and [Chinese guide](docs/recording_guide_zh.md). Keep the whole recording at most 5 minutes. Show all three changes in pgAdmin.
-2. Upload it to a video-sharing service with a viewable link. For example, choose YouTube **Unlisted**, not Private. Test the link while signed out.
-3. Replace the video placeholder near the top of this README with the actual link.
-4. Sign in to GitHub and create a **new public** repository named `postgresql-student-management`. Upload the project contents so `README.md`, `database`, and `src` are at the repository root. Include `.gitignore` and `.env.example`; exclude `.env`, `.venv`, caches and personal recordings. The ZIP already excludes secrets, runtime binaries and test databases.
-5. See the Chinese guide for GitHub Desktop steps or the Git commands below. Confirm the repository is viewable while signed out and the README video link works.
-6. Submit the **public repository URL through Brightspace**. The assignment asks for the URL, not just a ZIP attachment. Include notes only if necessary. The supplied TA instructions specify a **10% late-submission deduction**; no due date was visible in the screenshots.
 
 Optional Git commands after installing Git and creating the empty public repository (replace `YOUR_GITHUB_USERNAME` before running):
 
