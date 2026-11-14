@@ -4,7 +4,7 @@ A Python command-line application for the **Database Interaction with PostgreSQL
 
 ## Demonstration video URL — complete before submission
 
-**Video URL: NOT YET RECORDED — replace this text with your viewable video link.**
+**Video URL: https://youtu.be/0G8yxR6qiOs
 
 Record no more than **5 minutes**, upload the video, and replace the line above. The assignment requires a **public GitHub repository URL submitted through Brightspace**, with the video link in this README. Downloading this project alone does not complete those steps.
 
